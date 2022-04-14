@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_03.OnceUponATime" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="OnceUponATime" />
+    <module name="Part01_03.OnceUponATime" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_24.SpeedingTicket" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SpeedingTicket" />
+    <module name="Part01_24.SpeedingTicket" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

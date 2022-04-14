@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_06.HiAdaLovelace" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="HiAdaLovelace" />
+    <module name="Part01_06.HiAdaLovelace" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
